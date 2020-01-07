@@ -3,6 +3,9 @@
 *training_history
 *model_evaluation
 
+# Ignore compiled/optimised output
+__pycache__/
+
 # Ignore Jupyter Files
 .ipynb
 .ipynb_checkpoints
