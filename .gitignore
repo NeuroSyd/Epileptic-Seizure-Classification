@@ -1,0 +1,8 @@
+# Ignore Logs
+*saved_models
+*training_history
+*model_evaluation
+
+# Ignore Jupyter Files
+.ipynb
+.ipynb_checkpoints
